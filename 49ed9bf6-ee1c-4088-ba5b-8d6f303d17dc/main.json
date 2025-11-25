@@ -1,1 +1,1 @@
-{"allocations": {"NVDA": 20.0, "MSFT": 18.0, "GOOGL": 15.0, "AMZN": 12.0, "META": 10.0, "AMD": 8.0, "CRM": 7.0, "PLTR": 5.0, "ADBE": 5.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"NVDA": 20.0, "MSFT": 18.0, "GOOGL": 15.0, "AMZN": 12.0, "META": 10.0, "AMD": 8.0, "CRM": 7.0, "PLTR": 5.0, "ADBE": 5.0}, "frequency": 30, "name": "Momentum Growth Strategy", "period": "days"}
